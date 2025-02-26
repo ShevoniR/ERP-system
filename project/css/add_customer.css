@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 600px;
+}
+
+h2 {
+    color: #007bff;
+}
+
+form {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: #0056b3;
+    transition: background-color 0.3s ease-in-out;
+}
